@@ -28,3 +28,5 @@ First, a base version of Dame Lillard is created and goes through basic methods 
 process with 100 in all stats. Then, a KD player object is created, and then setters change his number and position to represent his change of teams to the Brooklyn Nets.
 Then, he also goes through drills and simulates a game.
 In order to run the demo program, all the user has to do is press play. If they wish to use more setters to edit KD, create a new player, or play through more games, they may edit the main method to do so.
+
+https://github.com/Vivan-S19/Basketball_Class_CSE20
